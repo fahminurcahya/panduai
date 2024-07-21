@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-wandering-river-a1jatret.ap-southeast-1.aws.neon.tech/panduai?user=panduai_owner&password=aDnq6gLZpV7C
